@@ -1,4 +1,4 @@
-# QuACK 2020
+# QuACK 2020 -
 # Week 1 - Intro to R and Programming
 # August 25, 2020
 # Elena Leib
